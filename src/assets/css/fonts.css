@@ -1,0 +1,9 @@
+@font-face {
+    font-family: sahel;
+    src: url('sahel.eot');
+    src: url('sahel.eot?#iefix') format('sahel-opentype'),
+         url('sahel.woff') format('woff'),
+         url('sahel.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
